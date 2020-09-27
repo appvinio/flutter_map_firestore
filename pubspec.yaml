@@ -1,0 +1,14 @@
+name: flutter_map_firestore
+description: Flutter Map with Firestore
+version: 0.0.4
+homepage: https://github.com/appvinio/flutter_map_firestore
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.14.0+2
+  flutter_map: ^0.10.1+1
